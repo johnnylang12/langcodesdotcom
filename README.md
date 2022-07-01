@@ -172,7 +172,6 @@
 <br />
 <hr>
 
-
 <!-- SOCIALS -->
 
 <h2 align="center">Contact Me</h2>
