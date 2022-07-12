@@ -85,8 +85,8 @@
             <td width="50%">
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
-                    <a href='https://leburger.netlify.app' target="_blank">
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/Rest-landing.jpg?raw=true" alt="project 3" height="100%" />
+                    <a href='https://audiobeats.netlify.app/' target="_blank">
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/product-landing-page.jpg?raw=true" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -94,12 +94,12 @@
                         <a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://leburger.netlify.app" target="_blank">
+						<a href="https://audiobeats.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>HTML, CSS</strong></p>
-		    <p>Landing Page built from scratch with only HTML & CSS</p>
+                    <p><strong>HTML, CSS, JS</strong></p>
+		    <p>Landing Page built with HTML, CSS & JS</p>
                 </div>
             </td>
             <td width="50%">
@@ -119,7 +119,7 @@
 						</a>	
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p>Newsletter Email built from scratch with only HMTL & CSS</p>
+		    <p>Newsletter Email built with only HMTL & CSS</p>
                 </div>	
             </td>
         </tr>
@@ -187,6 +187,27 @@
 		    <p>Landing Page capturing emails</p>
                 </div>
 		    </td>
+		    <td width="50%">
+                <h3 align="center">Project 8</h3>
+                <div align="center">  
+                    <a href='https://leburger.netlify.app' target="_blank">
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/Rest-landing.jpg?raw=true" alt="project 4" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://leburger.netlify.app" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+                    </p>
+                    <p><strong>HTML, CSS</strong></p>
+		    <p>Landing Page built with only HTML & CSS</p>
+                </div>	
+            </td>
+        </tr>
         </tr>
         </tr>
 	</td>
