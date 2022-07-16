@@ -19,11 +19,17 @@
 			<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
 			    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="css3" width="75" height="75"/>
 			    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" alt="css3" width="75" height="75"/>
+			    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="css3" width="75" height="75"/>
+			    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="css3" width="75" height="75"/>
+		      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webflow/webflow-original.svg" alt="ill" width="75" height="75"/>    
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" alt="ps" width="75" height="75"/> 
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sketch/sketch-original.svg" alt="ill" width="75" height="75"/>
+		      
+		      
+		      
+		      
+		      
                        
                       
                       
@@ -56,12 +62,10 @@
 						</a>
 					</p>
 					<p><strong>Wordpress</strong></p>
-          <p>
-						CMS website built through Wordpress
-					</p>
+          <p>CMS website built through Wordpress</p>
 				</div>
 			</td>
-			<td width="50%">
+			<td width="50%"> <!-- grab from here -->
 				<h3 align="center">Project 2</h3>
 				<div align="center" >  
 					<a href='https://langessential.myshopify.com/' target="_blank">
@@ -78,15 +82,15 @@
 						</a>	
 					</p>
 					 <p><strong>Shopify(pass:langcodes12)</strong></p>
-					<p>CMS website built through Shopify</p>
+					<p>CMS website built through Shopify</p> <!-- grab from here -->
 				</div>
         </tr>
 	    <tr>
-            <td width="50%">
+            <td width="50%"> <!-- grab from here -->
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
-                    <a href='https://audiobeats.netlify.app/' target="_blank">
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/product-landing-page.jpg?raw=true" alt="project 3" height="100%" />
+                    <a href='https://www.langstudiodesign.com/' target="_blank">
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/langstudio1.jpg?raw=true" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -94,19 +98,20 @@
                         <a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://audiobeats.netlify.app/" target="_blank">
+						<a href="https://www.langstudiodesign.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>HTML, CSS, JS</strong></p>
-		    <p>Landing Page built with HTML, CSS & JS</p>
+                    <p><strong>Webflow</strong></p>
+		    <p>Website built Webflow CMS</p> <!-- grab from here -->
                 </div>
             </td>
-            <td width="50%">
+	    <td width="50%"> <!-- grab from here -->
                 <h3 align="center">Project 4</h3>
-                <div align="center">  
-                    <a href='https://anewsletter.netlify.app/' target="_blank">
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/Newsletter%20Email.jpg?raw=true" alt="project 4" height="100%" />
+                <div align="center" >  
+                    <a href='https://relentless-mover-1711.ck.page/75c2e65c94
+' target="_blank">
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/landingpage-email.jpg?raw=true" alt="project 5" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -114,12 +119,12 @@
                         <a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://anewsletter.netlify.app/" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
-                    </p>
-                    <p><strong>HTML, CSS</strong></p>
-		    <p>Newsletter Email built with only HMTL & CSS</p>
+						<a href="https://relentless-mover-1711.ck.page/75c2e65c94
+" target="_blank">
+				<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    <p>Marketing Platform ConvertKit</p>
+                    <p><strong>Landing Page built with Convertkit</strong></p> <!-- grab from here -->
                 </div>	
             </td>
         </tr>
@@ -141,7 +146,7 @@
 						</a>
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p>Transactional Email built from scratch with only HTML & CSS</p>
+		    <p>Transactional Email built with only HTML & CSS</p>
                 </div>
 		    </td>
 			<td width="50%">
@@ -161,16 +166,15 @@
 						</a>	
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p>Promotional Email built from scratch with only HMTL & CSS</p>
+		    <p>Promotional Email built with only HMTL & CSS</p>
                 </div>	
             </td>
 			<tr>
             <td width="50%">
                 <h3 align="center">Project 7</h3>
-                <div align="center" >  
-                    <a href='https://relentless-mover-1711.ck.page/75c2e65c94
-' target="_blank">
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/landingpage-email.jpg?raw=true" alt="project 5" height="100%" />
+                <div align="center">  
+                    <a href='https://anewsletter.netlify.app/' target="_blank">
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/Newsletter%20Email.jpg?raw=true" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -178,13 +182,12 @@
                         <a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://relentless-mover-1711.ck.page/75c2e65c94
-" target="_blank">
+						<a href="https://anewsletter.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>
+						</a>	
                     </p>
-                    <p><strong>Landing Page built with Convertkit</strong></p>
-		    <p>Landing Page capturing emails</p>
+                    <p><strong>HTML, CSS</strong></p>
+		    <p>Newsletter Email built with only HMTL & CSS</p>
                 </div>
 		    </td>
 		    <td width="50%">
@@ -204,7 +207,26 @@
 						</a>	
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p>Landing Page built with only HTML & CSS</p>
+		    <p>Landing Page built with only HTML & CSS</p>  
+		    <tr>
+		    <td width="50%"> <!-- grab from here -->
+                <h3 align="center">Project 9</h3>
+                <div align="center" >  
+                    <a href='https://audiobeats.netlify.app/' target="_blank">
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/product-landing-page.jpg?raw=true" alt="project 3" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://audiobeats.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>HTML, CSS, JS</strong></p>
+		    <p>Landing Page built with HTML, CSS & JS</p> <!-- grab from here -->
                 </div>	
             </td>
         </tr>
