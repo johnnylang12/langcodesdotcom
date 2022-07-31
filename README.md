@@ -215,7 +215,7 @@
                 <h3 align="center">Project 9</h3>
                 <div align="center" >  
                     <a href='https://ehplabs2.netlify.app/' target="_blank">
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/ehplabs.png?raw=true" alt="project 3" height="100%" />
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/ehplabs.png?raw=true" alt="project 9" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -232,8 +232,8 @@
 				<td width="50%"> <!-- grab from here -->
                 <h3 align="center">Project 10</h3>
                 <div align="center">  
-                    <a href='https://stalwart-paprenjak-5acf3c.netlify.app/' target="_blank">
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/darkmode.png?raw=true" alt="project 4" height="100%" />
+                    <a href='https://teslanewsletter.netlify.app/' target="_blank">
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/tesla-newsletter.png?raw=true" alt="project 10" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -241,7 +241,7 @@
                         <a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://stalwart-paprenjak-5acf3c.netlify.app/" target="_blank">
+						<a href="https://teslanewsletter.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
@@ -252,7 +252,7 @@
                 <h3 align="center">Project 11</h3>
                 <div align="center" >  
                     <a href='https://audiobeats.netlify.app/' target="_blank">
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/product-landing-page.jpg?raw=true" alt="project 3" height="100%" />
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/product-landing-page.jpg?raw=true" alt="project 11" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -270,7 +270,7 @@
                 <h3 align="center">Project 12</h3>
                 <div align="center">  
                     <a href='https://leburger.netlify.app' target="_blank">
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/Rest-landing.jpg?raw=true" alt="project 4" height="100%" />
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/Rest-landing.jpg?raw=true" alt="project 12" height="100%" />
                     </a>
                     <br>
                     <br>
