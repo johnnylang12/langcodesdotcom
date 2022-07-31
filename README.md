@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/banner.jpg?raw=true" width="100%"/>
+  <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/banner2.jpg?raw=true" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Johnny Lang!</h1>
 <h3 align="center">A web developer from Orange County, CA</h3>
