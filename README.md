@@ -175,7 +175,7 @@
                 <h3 align="center">Project 7</h3>
                 <div align="center">  
                     <a href='https://anewsletter.netlify.app/' target="_blank">
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/Newsletter%20Email.jpg?raw=true" alt="project 4" height="100%" />
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/Newsletter%20Email.jpg?raw=true" alt="project 7" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -194,9 +194,45 @@
 		    <td width="50%"> <!-- grab from here -->
                 <h3 align="center">Project 8</h3>
                 <div align="center" >  
-                    <a href='https://relentless-mover-1711.ck.page/75c2e65c94
+                    <a href="https://stalwart-paprenjak-5acf3c.netlify.app/">
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/darkmode.png?raw=true" alt="project 8" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://stalwart-paprenjak-5acf3c.netlify.app/">
+				<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    <p><strong>HTML, CSS</strong></p>
+                    <p>Newsletter Email built with only HMTL & CSS</p> <!-- grab from here -->
+			<tr>
+		    <td width="50%"> <!-- grab from here -->
+                <h3 align="center">Project 9</h3>
+                <div align="center" >  
+                    <a href="https://shopifyemail.netlify.app/">
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/shopify-email.png?raw=true" alt="project 9" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://shopifyemail.netlify.app/">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>MJML</strong></p>
+		    <p>Newletter Email built with MJML</p> <!-- grab from here -->
+				<td width="50%"> <!-- grab from here -->
+                <h3 align="center">Project 10</h3>
+                <div align="center">  
+                    <a href="https://relentless-mover-1711.ck.page/75c2e65c94
 ' target="_blank">
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/landingpage-email.jpg?raw=true" alt="project 5" height="100%" />
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/landingpage-email.jpg?raw=true" alt="project 10" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -205,17 +241,19 @@
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://relentless-mover-1711.ck.page/75c2e65c94
-" target="_blank">
-				<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>
+' target=" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+                    </p>
                     <p><strong>Marketing Platform ConvertKit</strong></p>
-                    <p>Landing Page built with Convertkit</p> <!-- grab from here -->
-			<tr>
+		    <p>Landing Page built with Convertkit</p>  
+		    <tr> <!-- grab from here -->
+		    <tr>
 		    <td width="50%"> <!-- grab from here -->
-                <h3 align="center">Project 9</h3>
+                <h3 align="center">Project 11</h3>
                 <div align="center" >  
                     <a href='https://ehplabs2.netlify.app/' target="_blank">
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/ehplabs.png?raw=true" alt="project 9" height="100%" />
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/ehplabs.png?raw=true" alt="project 11" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -230,10 +268,10 @@
                     <p><strong>HTML, CSS, JS</strong></p>
 		    <p>Promotional Email built with only HMTL & CSS</p> <!-- grab from here -->
 				<td width="50%"> <!-- grab from here -->
-                <h3 align="center">Project 10</h3>
+                <h3 align="center">Project 12</h3>
                 <div align="center">  
                     <a href='https://teslanewsletter.netlify.app/' target="_blank">
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/tesla-newsletter.png?raw=true" alt="project 10" height="100%" />
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/tesla-newsletter.png?raw=true" alt="project 12" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -249,10 +287,10 @@
 		    <p>Newsletter Email built with only HMTL & CSS</p>  
 		    <tr> <!-- grab from here -->
 		<td width="50%"> <!-- grab from here -->
-                <h3 align="center">Project 11</h3>
+                <h3 align="center">Project 13</h3>
                 <div align="center" >  
                     <a href='https://audiobeats.netlify.app/' target="_blank">
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/product-landing-page.jpg?raw=true" alt="project 11" height="100%" />
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/product-landing-page.jpg?raw=true" alt="project 13" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -267,10 +305,10 @@
                     <p><strong>HTML, CSS, JS</strong></p>
 		    <p>Landing Page built with HTML, CSS & JS</p> <!-- grab from here -->
 			    <td width="50%"> <!-- grab from here -->
-                <h3 align="center">Project 12</h3>
+                <h3 align="center">Project 14</h3>
                 <div align="center">  
                     <a href='https://leburger.netlify.app' target="_blank">
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/Rest-landing.jpg?raw=true" alt="project 12" height="100%" />
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/Rest-landing.jpg?raw=true" alt="project 14" height="100%" />
                     </a>
                     <br>
                     <br>
