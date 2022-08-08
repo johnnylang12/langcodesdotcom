@@ -147,7 +147,7 @@
 						</a>
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p>Transactional Email built with only HTML & CSS</p>
+		    <p>Table-based Transactional Email</p>
                 </div>
 		    </td>
 			<td width="50%">
@@ -167,7 +167,7 @@
 						</a>	
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p>Promotional Email built with only HMTL & CSS</p>
+		    <p>Table-based Promotional Email</p>
                 </div>	
             </td>
 			<tr>
@@ -188,7 +188,7 @@
 						</a>	
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p>Newsletter Email built with only HMTL & CSS</p>
+		    <p>Table-based Newsletter Email</p>
                 </div>
 		    </td>
 		    <td width="50%"> <!-- grab from here -->
@@ -207,7 +207,7 @@
 				<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     <p><strong>HTML, CSS</strong></p>
-                    <p>Newsletter Email built with only HMTL & CSS</p> <!-- grab from here -->
+                    <p>Table-based Newsletter Email</p> <!-- grab from here -->
 			<tr>
 		    <td width="50%"> <!-- grab from here -->
                 <h3 align="center">Project 9</h3>
@@ -264,7 +264,7 @@
 						</a>
                     </p>
                     <p><strong>HTML, CSS, JS</strong></p>
-		    <p>Promotional Email built with only HMTL & CSS</p> <!-- grab from here -->
+		    <p>Table-based Promotional Email</p> <!-- grab from here -->
 				<td width="50%"> <!-- grab from here -->
                 <h3 align="center">Project 12</h3>
                 <div align="center">  
@@ -282,7 +282,7 @@
 						</a>	
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p>Newsletter Email built with only HMTL & CSS</p>  
+		    <p>Table-based  Newsletter Email</p>  
 		    <tr> <!-- grab from here -->
 		<td width="50%"> <!-- grab from here -->
                 <h3 align="center">Project 13</h3>
@@ -300,7 +300,7 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>HTML, CSS, JS</strong></p>
+                    <p><strong>HTML, CSS</strong></p>
 		    <p>Landing Page built with HTML, CSS & JS</p> <!-- grab from here -->
 			    <td width="50%"> <!-- grab from here -->
                 <h3 align="center">Project 14</h3>
