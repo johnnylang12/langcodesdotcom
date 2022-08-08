@@ -230,8 +230,7 @@
 				<td width="50%"> <!-- grab from here -->
                 <h3 align="center">Project 10</h3>
                 <div align="center">  
-                    <a href="https://relentless-mover-1711.ck.page/75c2e65c94
-' target="_blank">
+                    <a href='https://relentless-mover-1711.ck.page/90bb472e46' target="_blank">
                         <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/landingpage-email.jpg?raw=true" alt="project 10" height="100%" />
                     </a>
                     <br>
@@ -240,8 +239,7 @@
                         <a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://relentless-mover-1711.ck.page/75c2e65c94
-' target=" target="_blank">
+						<a href='https://relentless-mover-1711.ck.page/90bb472e46' target=" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
