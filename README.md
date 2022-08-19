@@ -58,7 +58,7 @@
 						<a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://cpcourse974425352.wordpress.com/" target="_blank"></a>
+						<a href="https://cpcourse974425352.wordpress.com/" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0" />
 		</a>
 					</p>
