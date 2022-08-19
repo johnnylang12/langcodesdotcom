@@ -265,7 +265,7 @@
                     </p>
                     <p><strong>HTML, CSS, JS</strong></p>
 		    <p>Table-based Promotional Email</p> <!-- grab from here -->
-				<td width="50%"> <!-- grab from here -->
+		<td width="50%"> <!-- grab from here -->
                 <h3 align="center">Project 12</h3>
                 <div align="center">  
                     <a href='https://teslanewsletter.netlify.app/' target="_blank">
@@ -340,6 +340,24 @@
                     <p><strong>Webflow</strong></p>
 		    <p>Responsive Website built Webflow CMS</p> 
 			    <td width="50%"> <!-- grab from here -->
+                <h3 align="center">Project 16</h3>
+                <div align="center">  
+                    <a href='https://albumdownloads.netlify.app/' target="_blank">
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/album-covers.png?raw=true" alt="project 14" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://albumdownloads.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+                    </p>
+                    <p><strong>HTML, CSS</strong></p>
+		    <p>Landing Page built with only HTML & CSS</p>  
+		    <tr> <!-- grab from here -->
                 </div>	
             </td>
         </tr>
