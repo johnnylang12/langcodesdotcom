@@ -49,7 +49,7 @@
 			<td width="50%">
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
-					<a href="https://cpcourse974425352.wordpress.com/" target="_blank">
+					<a href="https://cpcourse974425352.wordpress.com/" target="_blank"></a>
 						<img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/Wordpress%20Project.jpg?raw=true" alt="project 1" height="100%" />
 					</a>
 					<br>
