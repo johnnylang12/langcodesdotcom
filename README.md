@@ -355,8 +355,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>HTML, CSS</strong></p>
-		    <p>Landing Page built with only HTML & CSS</p>  
+                    <p><strong>HTML, CSS, JS</strong></p>
+		    <p>small prohect with HTML, CSS, & JS</p>  
 		    <tr> <!-- grab from here -->
                 </div>	
             </td>
