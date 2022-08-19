@@ -55,10 +55,10 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank">
+						<a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank"></a>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://cpcourse974425352.wordpress.com/" target="_blank">
+						<a href="https://cpcourse974425352.wordpress.com/" target="_blank"></a>
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
@@ -69,13 +69,13 @@
 			<td width="50%"> <!-- grab from here -->
 				<h3 align="center">Project 2</h3>
 				<div align="center" >  
-					<a href='https://langessential.myshopify.com/' target="_blank">
+					<a href='https://langessential.myshopify.com/' target="_blank"></a>
 						<img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/Shopify%20Store.jpg?raw=true" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank">
+						<a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank"></a>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://langessential.myshopify.com/" target="_blank">
@@ -90,7 +90,7 @@
             <td width="50%"> <!-- grab from here -->
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
-                    <a href='https://www.langstudiodesign.com/' target="_blank">
+                    <a href='https://www.langstudiodesign.com/' target="_blank"></a>
                         <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/langstudio1.jpg?raw=true" alt="project 3" height="100%" />
                     </a>
                     <br>
@@ -99,7 +99,7 @@
                         <a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://www.langstudiodesign.com/" target="_blank">
+						<a href="https://www.langstudiodesign.com/" target="_blank"></a>
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
