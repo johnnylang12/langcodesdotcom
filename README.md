@@ -356,7 +356,7 @@
 						</a>	
                     </p>
                     <p><strong>HTML, CSS, JS</strong></p>
-		    <p>small prohect with HTML, CSS, & JS</p>  
+		    <p>small project with HTML, CSS, & JS</p>  
 		    <tr> <!-- grab from here -->
                 </div>	
             </td>
