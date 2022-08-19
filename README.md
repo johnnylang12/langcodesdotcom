@@ -212,7 +212,7 @@
 		    <td width="50%"> <!-- grab from here -->
                 <h3 align="center">Project 9</h3>
                 <div align="center" >  
-                    <a href="https://shopifyemail.netlify.app/"></a>
+                    <a href="https://shopifyemail.netlify.app/" target="_blank">
                         <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/shopify-email.png?raw=true" alt="project 9" height="100%" />
                     </a>
                     <br>
