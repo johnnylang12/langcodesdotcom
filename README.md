@@ -358,6 +358,24 @@
                     <p><strong>HTML, CSS, JS</strong></p>
 		    <p>small project with HTML, CSS, & JS</p>  
 		    <tr> <!-- grab from here -->
+			    <td width="50%"> <!-- grab from here -->
+                <h3 align="center">Project 17</h3>
+                <div align="center" >  
+                    <a href='https://audislider.netlify.app/' target="_blank">
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/audi-slider.jpg?raw=true" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://audislider.netlify.app/">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>HTML, CSS, JS</strong></p>
+		    <p>Slider website built with JS</p>
                 </div>	
             </td>
         </tr>
