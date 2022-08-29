@@ -379,7 +379,7 @@
 			<td width="50%"> <!-- grab from here -->
                 <h3 align="center">Project 18</h3>
                 <div align="center">  
-                    <a href='https://acctlinks.netlify.app/' target="_blank"></a>
+                    <a href='https://acctlinks.netlify.app/' target="_blank">
                         <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/acctlinks.jpg?raw=true" alt="project 18" height="100%" />
                     </a>
                     <br>
