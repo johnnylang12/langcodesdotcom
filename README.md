@@ -342,7 +342,7 @@
 			    <td width="50%"> <!-- grab from here -->
                 <h3 align="center">Project 16</h3>
                 <div align="center">  
-                    <a href='https://albumdownloads.netlify.app/' target="_blank"></a>
+                    <a href='https://albumdownloads.netlify.app/' target="_blank">
                         <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/album-covers.png?raw=true" alt="project 16" height="100%" />
                     </a>
                     <br>
