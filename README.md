@@ -393,7 +393,7 @@
 						</a>	
                     </p>
                     <p><strong>HTML, CSS, JS</strong></p>
-		    <p>small project with HTML, CSS, & JS</p>  
+		    <p>small project built mainly with JS</p>  
 		    <tr> <!-- grab from here -->
                 </div>	
             </td>
