@@ -325,7 +325,7 @@
                 <h3 align="center">Project 15</h3>
                 <div align="center" >  
                     <a href='https://figma-to-webflow-06beec.webflow.io/' target="_blank">
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/Krypto%20Site.jpg?raw=true" />
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/Krypto%20Site.jpg?raw=true" alt="project 15" height="100%"/>
                     </a>
                     <br>
                     <br>
@@ -343,7 +343,7 @@
                 <h3 align="center">Project 16</h3>
                 <div align="center">  
                     <a href='https://albumdownloads.netlify.app/' target="_blank"></a>
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/album-covers.png?raw=true" alt="project 14" height="100%" />
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/album-covers.png?raw=true" alt="project 16" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -362,7 +362,7 @@
                 <h3 align="center">Project 17</h3>
                 <div align="center" >  
                     <a href='https://audislider.netlify.app/' target="_blank">
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/audi-slider.jpg?raw=true" />
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/audi-slider.jpg?raw=true" alt="project 17" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -380,7 +380,7 @@
                 <h3 align="center">Project 18</h3>
                 <div align="center">  
                     <a href='https://acctlinks.netlify.app/' target="_blank"></a>
-                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/acctlinks.jpg?raw=true" alt="project 14" height="100%" />
+                        <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/acctlinks.jpg?raw=true" alt="project 18" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -388,12 +388,12 @@
                         <a href="https://github.com/johnnylang12/langcodesdotcom" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href='https://acctlinks.netlify.app/' target="_blank">
+						<a href="https://acctlinks.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
                     <p><strong>HTML, CSS, JS</strong></p>
-		    <p>small project with built JS</p>  
+		    <p>small project with HTML, CSS, & JS</p>  
 		    <tr> <!-- grab from here -->
                 </div>	
             </td>
