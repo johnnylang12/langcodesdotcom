@@ -2,7 +2,7 @@
   <img src="https://github.com/johnnylang12/langcodesdotcom/blob/main/assets/banner2.jpg?raw=true" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Johnny Lang!</h1>
-<h3 align="center">A HTML Email/Web developer from Orange County, CA</h3>
+<h3 align="center">HTML Email/Web developer from Orange County, CA</h3>
 <h4 align="center">Hi my name is Johnny Lang, a web developer based out of California. I studied computer science for my first two years in college but decided to change my path into Architecture. After years of schooling and many jobs later I find myself wanting to get back into the tech industry. I hope to bring all my work experiences in life and design skills learned from Architecture and Interior Design into this industry. </h4>
 
 <hr>
